@@ -3,7 +3,7 @@
 #include<string>
 using namespace std;
 
-double findGrade(double score)
+char findGrade(double score)
 {
 	char grade ;
 	if (score >90)
